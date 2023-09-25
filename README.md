@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jemmuel aguilar</h1>
 <h3 align="center">A passionate Full Stack Web developer in the Philippines</h3>
-🔭 I’m currently **Full Time College student BSIT from NCST**
+<img align="right" alt="coding" src="https://keganquimby.com/wp-content/uploads/2021/01/coding.png" width="400" 
+🔭 I’m currently **a full-time college student BSIT from NCST**
 
 - 🌱 I’m currently learning **HTML,CSS, Javascript,Reac, Php,vue.js, python,Angular**
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **wewelaguilar18@gmail.com**
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" src="https://keganquimby.com/wp-content/uploads/2021/01/coding.png" width="400" 
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.instagram.com/invites/contact/?i=1xjhc2e9yjmql&utm_content=ehh88uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.instagram.com/invites/contact/?i=1xjhc2e9yjmql&utm_content=ehh88uu" height="30" width="40" /></a>
 <a href="https://fb.com/jemmuel aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jemmuel aguilar" height="30" width="40" /></a>
