@@ -3,15 +3,15 @@
 <img align="right" alt="coding" src="https://keganquimby.com/wp-content/uploads/2021/01/coding.png" width="400" 
 🔭 I’m currently **a full-time college student BSIT from NCST**
 
-- 🌱 I’m currently learning **HTML,CSS, Javascript,Reac, Php,vue.js, python,Angular**
+🌱 I’m currently learning **HTML,CSS, Javascript,Reac, Php,vue.js, python,Angular**
 
-- 👯 I’m looking to collaborate **Teammates and Confidence**
+👯 I’m looking to collaborate **Teammates and Confidence**
 
-- 🤝 I’m looking for **New projects**
+ 🤝 I’m looking for **New projects**
 
-- 💬 Ask me about **Related coding concepts**
+💬 Ask me about **Related coding concepts**
 
-- 📫 How to reach me **wewelaguilar18@gmail.com**
+📫 How to reach me **wewelaguilar18@gmail.com**
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
