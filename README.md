@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jemmuel aguilar</h1>
 <h3 align="center">A passionate Full Stack Web developer in the Philippines</h3>
-<img align="right" alt="coding" src="https://keganquimby.com/wp-content/uploads/2021/01/coding.png" width="400" 
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400" 
  
 🔭 I’m currently **a full-time college student BSIT from NCST dasma cavite**
 
