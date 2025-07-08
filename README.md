@@ -4,9 +4,9 @@
  
 🔭 I’m currently **a full-time college student BSIT from NCST dasma cavite**
 
-🌱 I’m currently learning **HTML,CSS, Javascript,Reac, Php,vue.js, python,Angular**
+🌱 I’m currently learning **HTML,CSS, Javascript, Bootstrap ,Reac.js, vue.js, Angular**
 
-👯 I’m looking to collaborate **with Teammates and all things related to Technology**
+👯 I’m looking to collaborate **with Teamm.zates and all things related to Technology**
 
  🤝 I’m looking for **New projects**
 
