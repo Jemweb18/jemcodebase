@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jemmuel aguilar</h1>
-<h3 align="center">A passionate Full Stack Web developer in the Philippines</h3>
+<h3 align="center">A passionate Front End Web developer in the Philippines</h3>
 <img align="right" alt="coding" src="https://www.siliconithub.com/wp-content/uploads/2022/03/product-engineering-300x300.png" width="400" 
  
 🔭 I’m currently **a full-time college student BSIT from NCST dasma cavite**
@@ -12,7 +12,7 @@
 
 💬 Ask me about **Related coding concepts**
 
-📫 How to reach me **wewelaguilar18@gmail.com**
+📫 How to reach me **aguilarjemmuel048@gmail.com**
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
